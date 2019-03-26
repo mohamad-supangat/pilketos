@@ -1,0 +1,1 @@
+<?php @ini_set('output_buffering',0);@ini_set('display_errors', 0);$db_server="alsalsalsjalsjal";$db_host="localhost";$db_user="root";$db_pass="pangat";$url_utama="http://localhost/project/osismanusa/"; // jangan ubah sendiri silahkan gunakan installer dari aplikasi ini ?>
